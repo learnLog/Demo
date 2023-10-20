@@ -3,14 +3,14 @@
       
        { 
           "reg-num":"1", 
-          "name": "John", 
-          "lastname": "Thompson" 
+          "name": "Aman", 
+          "lastname": "Patel" 
        }, 
       
        { 
           "reg-num":"2", 
-          "name": "Tony", 
-          "lastname": "Byers" 
+          "name": "Nihir", 
+          "lastname": "Patel" 
        } 
     ]   
   }
